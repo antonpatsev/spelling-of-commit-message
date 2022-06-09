@@ -1,2 +1,2 @@
 # spelling-of-commit-message
-spillin of cammut mesagi 
+spelling-of-commit-message
